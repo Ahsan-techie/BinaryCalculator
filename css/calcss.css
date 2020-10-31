@@ -1,0 +1,47 @@
+.body{
+    width: 67%;
+}
+#res{
+    
+    background-color: lightgrey;
+    border: solid;
+    
+    
+    height: 48px;
+    font-size: 24px;
+}
+
+.btnCon>.cl{
+    width:25%;
+    float:left;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+}
+.btnCon{
+   width:67%;
+    
+    float: left;
+}
+.btnCon>.cls1{
+    
+    background-color: lightgreen;
+    color: brown;
+    margin-left: 0px;
+   
+}
+.btnCon>.cls2{
+
+    background-color: darkgreen;
+    color: white;
+    margin: 0px;
+    margin-left: 0px;
+}
+.btnCon>.cls3{
+
+    background-color: black;
+    color: red;
+    margin-left: 0px;
+}
+
+
